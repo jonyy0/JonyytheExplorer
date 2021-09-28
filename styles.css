@@ -1,0 +1,6 @@
+body {background-color: #126D92;}
+h1 {color: #FF5F42; font-family: Helvetica; font-size: 24px;}
+p {color: #ED058E; font-family: Arial; font-size: 34px;}
+a {color: #9200D1}
+a:hover {color: #D1007B;}
+img {margin-left: 250px; border-color: white; border-width: 5px; border-style: dotted solid double;}
